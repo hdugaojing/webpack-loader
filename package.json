@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hdugaojing/webpack-loader/issues"
   },
-  "homepage": "https://github.com/hdugaojing/webpack-loader#readme"
+  "homepage": "https://github.com/hdugaojing/webpack-loader#readme",
+  "dependencies": {
+    "loader-runner": "^4.2.0"
+  }
 }
